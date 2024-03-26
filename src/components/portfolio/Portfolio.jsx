@@ -7,6 +7,7 @@ import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.jpg";
 import IMG7 from "../../assets/portfolio7.png";
+import IMG8 from "../../assets/portfolio8.jpg";
 
 const data = [
   {
@@ -55,9 +56,15 @@ const data = [
     id: 7,
     image: IMG7,
     title: "Microcredit website",
-    github:
-      "https://github.comhttps://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117",
+    github:"https://github.comhttps://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117",
     livedemo: "https://tlbmicrocredit.com",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "Budget Application",
+    github:"https://github.com/evansnyamekye/budget-app.git",
+    livedemo: "https://budget-application-2kkv.onrender.com",
   },
 ];
 
