@@ -16,14 +16,17 @@ const Contact = () => {
 
     emailjs
     .sendForm('service_7fxtau8', 'template_vwfetf4', form.current, 'izYC5cXhmXbTKze1r')
-    .then(
-      () => { 
-        console.log('SUCCESS!'); 
-      },
-      (error) => {
-        console.log('FAILED...', error.text);
-      },
-    );
+    
+    e.target.reset()
+ 
+    // .then(
+    //   () => { 
+    //     console.log('SUCCESS!'); 
+    //   },
+    //   (error) => {
+    //     console.log('FAILED...', error.text);
+    //   },
+    // );
   } 
 
   return (
