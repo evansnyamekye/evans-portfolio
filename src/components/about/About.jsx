@@ -46,7 +46,7 @@ const About = () => (
           am dedicated to delivering high-quality work that exceeds their expectations.
         </p>
 
-        <a href="#contact" className="btn btn-primary">{'I\'Let\'s Talk'}</a>
+        <a href="#contact" className="btn btn-primary">{'Let\'s Talk'}</a>
       </div>
     </div>
   </section>
