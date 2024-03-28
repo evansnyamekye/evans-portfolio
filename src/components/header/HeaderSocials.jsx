@@ -1,20 +1,14 @@
-import React from 'react'
-import { FaLinkedin } from "react-icons/fa"
-import { FaGithub } from "react-icons/fa";
-import { FaDiscord } from "react-icons/fa6";
-import { FaDribbble } from "react-icons/fa";
+import React from 'react';
+import { FaLinkedin, FaGithub, FaDribbble } from 'react-icons/fa';
+import { FaDiscord } from 'react-icons/fa6';
 
-const HeaderSocials = () => {
-  return (
-    <div className='header__socials'>
-        <a href="https://linkedin.com" target="_blank"><FaLinkedin/></a>
-        <a href="https://github.com" terget="_blank"><FaGithub/></a>
-        <a href="https://discord.com" terget="_blank"><FaDiscord/></a>
-        <a href="https://dribble.com" terget="_blank"><FaDribbble/></a>
-    </div>
-  )
-}
+const HeaderSocials = () => (
+  <div className="header__socials">
+    <a href="https://linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn"><FaLinkedin /></a>
+    <a href="https://github.com" target="_blank" rel="noreferrer" aria-label="GitHub"><FaGithub /></a>
+    <a href="https://discord.com" target="_blank" rel="noreferrer" aria-label="Discord"><FaDiscord /></a>
+    <a href="https://dribble.com" target="_blank" rel="noreferrer" aria-label="Dribbble"><FaDribbble /></a>
+  </div>
+);
 
-export default HeaderSocials
-
-
+export default HeaderSocials;
