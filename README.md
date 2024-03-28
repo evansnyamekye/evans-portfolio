@@ -86,7 +86,7 @@ npm install
 ### Run the App
 
 ```bash
-rails s
+npm start
 ```
 
 ```npm start
