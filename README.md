@@ -92,7 +92,8 @@ npm start
 ```npm start
 Check http://localhost:3000/ in your browser
 ```
-
+## Live Demo
+[Live App](https://evans-portfolio-ecru.vercel.app/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name='author'></a>
