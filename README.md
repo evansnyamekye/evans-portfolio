@@ -9,11 +9,11 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Rail Recipe App ](#-rail-recipe-app-)
+- [📖 Evans portfolio ](#-rail-recipe-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [💻 Getting Started ](#-getting-started-)`
     - [Setup](#setup)
     - [Install](#install)
     - [Run the seeder](#run-the-seeder)
