@@ -95,7 +95,7 @@ Check http://localhost:3000/ in your browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name='authors'></a>
+## 👥 Author <a name='author'></a>
 
 👤 **Evans Kofi Nyamekye**
 - GitHub: [evansnyamekye](https://github.com/evansnyamekye)
