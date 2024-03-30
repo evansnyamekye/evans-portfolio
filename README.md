@@ -39,7 +39,7 @@
   <summary>Frontend</summary>
   <ul>
     <li><a href="https://www.react.com">React</a></li>
-    <li><a href="https://react-icons.github.io/react-icons/">React Icons</a></li>
+    <li><a href="https://react-icons.github.io/react-icons/search/#q=twitt">React Icons</a></li>
     <li><a href="https://git-scm.com/">Git</a></li>
   </ul>
 </details>
