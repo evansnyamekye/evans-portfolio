@@ -11,13 +11,13 @@ const About = () => (
     <h2>About Me</h2>
 
     <div className="container about__container">
-      <div className="about__me">
+      <div data-aos="fade-right" data-aos-duration="2000" className="about__me">
         <div className="about__me-image">
           <img src={Evans} alt="About_evans-img" />
         </div>
       </div>
 
-      <div className="about__content">
+      <div data-aos="fade-left" data-aos-duration="2000" className="about__content">
         <div className="about__cards">
           <article className="about__card">
             <FaAward className="about__icon" />

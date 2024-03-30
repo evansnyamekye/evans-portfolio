@@ -6,8 +6,7 @@ import IMG3 from '../../assets/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.jpg';
-import IMG7 from '../../assets/portfolio7.png';
-import IMG8 from '../../assets/portfolio8.jpg';
+import IMG7 from '../../assets/portfolio7.jpg';
 
 const data = [
   {
@@ -40,14 +39,14 @@ const data = [
   },
   {
     id: 5,
-    image: IMG6,
+    image: IMG5,
     title: 'Magicians',
     github: 'https://github.com/evansnyamekye/Magicians.git',
     livedemo: 'https://magicians-beta.vercel.app',
   },
   {
     id: 6,
-    image: IMG5,
+    image: IMG6,
     title: 'Bookstore',
     github: 'https://github.com/evansnyamekye/bookstore.git',
     livedemo: 'https://bookstore-mu-indol.vercel.app',
@@ -55,13 +54,6 @@ const data = [
   {
     id: 7,
     image: IMG7,
-    title: 'Microcredit website',
-    github: 'https://github.comhttps://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117',
-    livedemo: 'https://tlbmicrocredit.com',
-  },
-  {
-    id: 8,
-    image: IMG8,
     title: 'Budget Application',
     github: 'https://github.com/evansnyamekye/budget-app.git',
     livedemo: 'https://budget-application-2kkv.onrender.com',
@@ -73,7 +65,7 @@ const Portfolio = () => (
     <h5>My Recent Work</h5>
     <h2>Portfolio</h2>
 
-    <div className="container portfolio__container">
+    <div data-aos="fade-down" data-aos-duration="2000" className="container portfolio__container">
       {data.map(({
         id, image, title, github, livedemo,
       }) => (
