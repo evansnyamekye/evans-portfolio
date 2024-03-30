@@ -6,7 +6,7 @@ import IMG3 from '../../assets/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.jpg';
-import IMG7 from '../../assets/portfolio7.jpg';
+import IMG8 from '../../assets/portfolio8.jpg';
 
 const data = [
   {
@@ -53,7 +53,7 @@ const data = [
   },
   {
     id: 7,
-    image: IMG7,
+    image: IMG8,
     title: 'Budget Application',
     github: 'https://github.com/evansnyamekye/budget-app.git',
     livedemo: 'https://budget-application-2kkv.onrender.com',
