@@ -18,9 +18,9 @@ const Footer = () => (
     </ul>
 
     <div data-aos="fade-up" data-aos-duration="2000" className="footer__socials">
-      <a href="https://web.facebook.com/nyamekye.evans.9/" aria-label="Facebook"><FaFacebookF /></a>
-      <a href="https://twitter.com/nyamekye2131" aria-label="Twitter"><IoLogoTwitter /></a>
-      <a href="https://www.instagram.com/nyamekye7346" aria-label="Instagram"><FiInstagram /></a>
+      <a href="https://web.facebook.com/nyamekye.evans.9/" aria-label="Facebook" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
+      <a href="https://twitter.com/nyamekye2131" aria-label="Twitter" target="_blank" rel="noopener noreferrer"><IoLogoTwitter /></a>
+      <a href="https://www.instagram.com/nyamekye7346" aria-label="Instagram" target="_blank" rel="noopener noreferrer"><FiInstagram /></a>
     </div>
 
     <div className="footer__copyright">

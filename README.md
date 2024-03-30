@@ -44,6 +44,15 @@
   </ul>
 </details>
 
+- **Frontend**: React, AOS (Animate on Scroll), React Icons.
+- **Version Control**: Git
+
+### Project Summary
+
+Evans Portfolio is a personal portfolio website showcasing my skills, experience, and projects. The site is built with React on the frontend for a dynamic, single-page application experience. AOS (Animate on Scroll) is used for scroll animations, and React Icons for various UI icons.
+
+Git is used for version control, allowing for efficient tracking of changes and collaboration.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features <a name="key-features"></a>
