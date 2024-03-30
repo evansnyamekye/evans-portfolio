@@ -17,10 +17,10 @@ const Footer = () => (
       <li><a href="#contact">Contact</a></li>
     </ul>
 
-    <div className="footer__socials">
-      <a href="https://facebook.com" aria-label="Facebook"><FaFacebookF /></a>
-      <a href="https://twitter.com" aria-label="Twitter"><IoLogoTwitter /></a>
-      <a href="https://instagram.com" aria-label="Instagram"><FiInstagram /></a>
+    <div data-aos="fade-up" data-aos-duration="2000" className="footer__socials">
+      <a href="https://web.facebook.com/nyamekye.evans.9/" aria-label="Facebook"><FaFacebookF /></a>
+      <a href="https://twitter.com/nyamekye2131" aria-label="Twitter"><IoLogoTwitter /></a>
+      <a href="https://www.instagram.com/nyamekye7346" aria-label="Instagram"><FiInstagram /></a>
     </div>
 
     <div className="footer__copyright">

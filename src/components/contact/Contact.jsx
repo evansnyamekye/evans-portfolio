@@ -33,7 +33,7 @@ const Contact = () => {
       <h2>Contact Me</h2>
 
       <div className="container contact__container">
-        <div className="contact__options">
+        <div data-aos="fade-right" data-aos-duration="2000" className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
@@ -53,7 +53,7 @@ const Contact = () => {
             <a href="https://api.whatsapp.com/send?phone+233530646942" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
-        <form ref={form} onSubmit={sendEmail}>
+        <form data-aos="fade-left" data-aos-duration="2000" ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Your Full Name" required />
           <input type="email" name="email" placeholder="Your Email" required />
           <textarea name="message" rows="7" placeholder="Your Message" required />
