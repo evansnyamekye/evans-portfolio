@@ -35,6 +35,10 @@
   margin-bottom: 1rem;
 }
 
+.sum-txt {
+  margin-bottom: 2rem;
+}
+
 /*  ============ MDEIA QUERIES (MEDIUM DEVICES) ========= */
 @media screen and (max-width: 1024px) {
   .portfolio__container {
